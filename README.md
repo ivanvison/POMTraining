@@ -1,4 +1,4 @@
-Thank you for getting to this point. This repository was created for a Page Object Model training. 
+Thank you for getting to this point. This repository was created for a Page Object Model  or Page Object Design Pattern training with Java, TestNG and Selenium. 
 
 ## Topics Covered
 - Concepts and Advantages
@@ -15,5 +15,6 @@ Thank you for getting to this point. This repository was created for a Page Obje
 
 ## **Prerequisites (in this case):**
 - Java JDK
+- Dependencies configured
 - Proper setup for System variables environment
 - Eclipse IDE
